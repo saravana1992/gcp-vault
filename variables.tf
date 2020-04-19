@@ -1,6 +1,6 @@
 variable "project_id" {
   description = "GCP Project ID to launch resources in"
-  default     = "crafty-mile-241013"
+  default     = "account-number"
 }
 
 variable "region" {
